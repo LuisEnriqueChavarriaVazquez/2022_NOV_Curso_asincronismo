@@ -1,0 +1,24 @@
+{
+  "name": "2022_nov_curso_asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_asincronismo.git"
+  },
+  "keywords": [
+    "asincronismo",
+    "js",
+    "platzi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_asincronismo/issues"
+  },
+  "homepage": "https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_asincronismo#readme"
+}
