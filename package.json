@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_asincronismo/issues"
   },
-  "homepage": "https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_asincronismo#readme"
+  "homepage": "https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
