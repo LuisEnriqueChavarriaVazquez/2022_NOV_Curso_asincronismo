@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/LuisEnriqueChavarriaVazquez/2022_NOV_Curso_asincronismo#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
